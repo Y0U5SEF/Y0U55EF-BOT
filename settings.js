@@ -58,17 +58,17 @@ global.vcardowner = ['916909137213'] //ur owner number
 global.ownername = "Y0U55EF 🔰" //ur owner name
 global.ytname = "YT:" //ur yt chanel name
 global.socialm = "INSTA: @ussef.elabassi" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "MOROCCO" //ur location
 
 //bot bomdy 
 global.owner = ['916909137213']
 global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.botname = 'Y0U55EF BOT V1' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botscript = 'https://github.com/Y0U5SEF/Y0U55EF-BOT' //script link
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "🔰" //ur theme emoji
 global.packname = "🔰 Y0U55EF 🔰" //ur sticker watermark packname
 global.author = "@ussef.elabassi" //ur sticker watermark author
 
